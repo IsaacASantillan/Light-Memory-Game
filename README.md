@@ -53,7 +53,7 @@ One challenge I encountered in creating this submission was figuring out the syn
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-Since I have been unable to land a technical Computer Science internship during my time at UC Berkeley, I would also like to learn more about the roles of front end vs backend developers and how their different roles affect what languages they use. I am interested in web development myself, so learning more about the daily tasks of both sides would be extremely helpful in choosing what roles I may want to play in my future career. I am also interested in how teams at tech companies work on web development together and how different teams function for one website or project. 
+Since I have been unable to land a technical Computer Science internship during my time at UC Berkeley, I would also like to learn more about the roles of front end vs backend developers and how their different roles affect what languages they use. I am interested in web development myself, so learning more about the daily tasks of both sides would be extremely helpful in choosing what roles I may want to play in my future career. I am also interested in learning how teams at tech companies work on web development together and how different teams function for one website or project. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
